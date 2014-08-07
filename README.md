@@ -9,7 +9,6 @@ Apache config
 <code>
   <IfModule mod_rewrite.c>
     # Options -MultiViews
-
     # RewriteEngine On
     # #RewriteBase /path/to/app
     # RewriteCond %{REQUEST_FILENAME} !-f
